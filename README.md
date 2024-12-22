@@ -112,7 +112,7 @@ Here is a list of all the problems from the HackerRank SQL Preparation Kit with 
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details. 📄
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 A big thank you to **HackerRank** for providing such a fantastic platform to practice and learn SQL. 🎉👏
 
