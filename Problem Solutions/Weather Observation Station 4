@@ -1,0 +1,5 @@
+# Solution 1
+SELECT COUNT(city) - COUNT(DISTINCT city) FROM station;
+
+# Solution 2
+SELECT ((SELECT COUNT(city) FROM station) - (SELECT COUNT(DISTINCT city) FROM station)) as ans;
