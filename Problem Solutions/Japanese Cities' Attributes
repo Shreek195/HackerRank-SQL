@@ -1,2 +1,2 @@
 SELECT * FROM city
-WHERE countrycode='JPN'
+WHERE countrycode='JPN';
