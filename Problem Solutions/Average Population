@@ -1,2 +1,2 @@
 SELECT ROUND(AVG(population)) AS 'Average Population'
-FROM city;
+FROM city
