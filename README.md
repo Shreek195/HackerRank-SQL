@@ -108,10 +108,6 @@ Here is a list of all the problems from the HackerRank SQL Preparation Kit with 
 2. Solve problems directly on HackerRank. 🧑‍💻  
 3. Save and organize your solutions in this repository. 🗂️ 
 
-## 📜 License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details. 📄
-
 ##  Acknowledgements
 
 A big thank you to **HackerRank** for providing such a fantastic platform to practice and learn SQL. 🎉👏
